@@ -1,0 +1,110 @@
+body{
+    
+    
+    /* background-repeat: no-repeat;
+    position: absolute; */
+}
+* body::after  {
+    content: "";
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1; 
+    background-image: url(1pic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.div1 a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+.div1{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+button{
+    background-color: #FF6551;
+    border: none ;
+    padding: 10px 15px;
+    color: white;
+    font-size: 10px;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+.div2{
+    font-size: 12px;
+}
+.div3{
+    margin-top: 150px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.h1-1{
+    color: white;
+    width: 300px;
+    text-align: center;
+    line-height: 1.7;
+    font-weight: bold;
+    font-size: 32px;
+}
+.div3 a{
+    color: #E1B55C;
+    text-decoration: none;
+    font-size: 12px;
+}
+.div3 button{
+    margin-top: 25px;
+}
+.span1{
+    font-size: 14px;
+    color: antiquewhite;
+
+}
+.div4{
+    width: 180px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: rgba(11, 11, 203, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;;
+
+}
+.div6{
+    width: 180px;
+    background-color: #FF6551;
+    padding: 20px;
+    color: white;
+}
+.div5{
+    display: flex;
+    gap: 10px;
+    margin-left: 310px;
+    margin-top: 20px;
+}
+.hr1{
+    margin-right: 150px;
+}
+.div4 img{
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.hi{
+    margin-top: 1000px;
+}
