@@ -90,11 +90,52 @@ button{
 }
 .hr1{
     margin-right: 150px;
+    background-color:#FF6551 ;
+    height: 2px;
+    border: none;
+}
+.hr3{
+    margin-right: 150px;
+
 }
 .div4 img{
     border-radius: 8px;
 }
+.div6 img{
+    border-radius: 8px;
+}
+.div7{
+    display: flex;
+    background-color: white;
+    margin-top: 100px;
+}
 
+.div8{
+    padding-top: 230px;
+    background-color: white;
+    padding-left: 100px;
+    padding-right: 330px;
+}
+.a1{
+    line-height: 5;
+    text-decoration: none;
+    color: #FF6551;
+}
+.hr2{
+    height: 4px;
+    color: #FF6551;
+    background-color: #FF6551;
+    border-radius: 8px;
+    margin-right: 270px;
+}
+.img3{
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.spn5{
+    line-height: 1.7;
+}
 
 
 
