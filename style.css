@@ -48,6 +48,10 @@ button{
     flex-direction: column;
     justify-content: center;
 }
+.ifrm1 {
+    border-radius: 8px;
+    margin-right: 200px;
+}
 .h1-1{
     color: white;
     width: 300px;
@@ -81,6 +85,8 @@ button{
     background-color: #FF6551;
     padding: 20px;
     color: white;
+    box-shadow: rgba(11, 11, 203, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;;
+
 }
 .div5{
     display: flex;
@@ -108,18 +114,40 @@ button{
     display: flex;
     background-color: white;
     margin-top: 100px;
+    margin-left: 100px;
 }
 
 .div8{
-    padding-top: 230px;
+    padding-top: 210px;
     background-color: white;
     padding-left: 100px;
-    padding-right: 330px;
+    padding-right: 240px;
+}
+.div9{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 40px;
+    background-color: white;
+
 }
 .a1{
     line-height: 5;
     text-decoration: none;
     color: #FF6551;
+}
+.div11{
+    padding-top: 20px;
+    background-color: white;
+    padding-left: 60px;
+    padding-right: 130px;
+}
+.hr3{
+    height: 4px;
+    color: #FF6551;
+    background-color: #FF6551;
+    border-radius: 8px;
+    margin-right: 430px;
 }
 .hr2{
     height: 4px;
